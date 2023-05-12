@@ -1,4 +1,6 @@
-### Hello there 👋
+## Hello there 👋
+
+### About me:
 
 As a highly skilled 🔧 and certified 🎓 multi-cloud network engineer, I bring a wealth of knowledge and expertise to the IT security and networking industries. With a proven track record of success in project collaboration with teams across the globe🌍, I have been involved in cutting-edge initiatives in a variety of sectors, including oil and energy, data-analytics, big data, finance, and telecommunications.
 
