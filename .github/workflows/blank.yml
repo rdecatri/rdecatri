@@ -14,7 +14,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: rdecatri/metrics@main
+      - uses: rdecatri/metrics@master
         with:
           base: header
           plugin_isocalendar: yes
