@@ -17,8 +17,14 @@ jobs:
       - uses: rdecatri/metrics@master
         with:
           base: header
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_stars: yes
-          config_order: base.header, isocalendar, languages, stars
-          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
+
+
+
+
+          # plugin_isocalendar: yes
+          # plugin_languages: yes
+          # plugin_stars: yes
+          # config_order: base.header, isocalendar, languages, stars
+          # token: ${{ secrets.METRICS_TOKEN }}
