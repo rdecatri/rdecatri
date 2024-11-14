@@ -19,7 +19,9 @@ jobs:
           base: header
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_wakatime_languages_other: yes
 
 
 
