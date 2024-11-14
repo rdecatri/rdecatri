@@ -2,13 +2,13 @@
 
 ### About me:
 
-As a highly skilled 🔧 and certified 🎓 multi-cloud network engineer, I bring a wealth of knowledge and expertise to the IT security and networking industries. With a proven track record of success in project collaboration with teams across the globe🌍, I have been involved in cutting-edge initiatives in a variety of sectors, including oil and energy, data-analytics, big data, finance, and telecommunications.
+With a strong foundation as a certified multi-cloud network engineer, I bring a wealth of expertise to IT security, complex networking, and cloud infrastructure design. My professional journey includes successfully leading global teams on high-stakes projects in diverse sectors like big data, finance, health, telecommunications, oil and energy.
 
-My skillset encompasses a deep understanding of both the OS and application levels, allowing me to navigate complex technical challenges with ease. I thrive in fast-paced, high-pressure environments⏱️, where keen problem-solving ability and the mindset to stay calm under stress prove invaluable.
+I specialize in designing microservices and scalable software architectures, always prioritizing security and performance. My approach is both strategic and hands-on, solving intricate technical challenges while enhancing efficiency and reliability. Whether in fast-paced or high-pressure situations, I thrive on creating solutions that are both innovative and effective.
 
-As a true technology enthusiast 🤖, I am constantly seeking out new discoveries and staying up to date with the latest trends in the field. I'm curious and eager to learn, and I am committed to leveraging my skills and knowledge to drive innovation 🚀 and progress in the world of computers 🖥️.
+As the CEO of a leading DevOps consulting startup, I oversee critical business aspects, including forming and negotiating legal contracts, developing comprehensive project assessments, managing financial plans, and setting strategic goals. I am dedicated to building a bridge between technical innovation and strategic business impact, ensuring that every project maximizes value.
 
-
+🎯 I am also passionate about mentoring and sharing knowledge, committed to driving continuous improvement and innovation in every area of my work. My curiosity keeps me engaged with the latest advancements, ensuring I remain at the forefront of the ever-evolving technology landscape.
 
 
 ![Metrics](/github-metrics.svg)
