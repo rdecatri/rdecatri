@@ -22,7 +22,9 @@ jobs:
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_wakatime_languages_other: yes
-
+          plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: ${{ secrets.STEAM_UID }}
 
 
           # plugin_isocalendar: yes
