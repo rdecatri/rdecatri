@@ -2,7 +2,7 @@
 
 ### About me:
 
-With a strong foundation as a certified multi-cloud network engineer, I bring a wealth of expertise to IT security, complex networking, and cloud infrastructure design. My professional journey includes successfully leading global teams on high-stakes projects in diverse sectors like big data, finance, health, telecommunications, oil and energy.
+With a strong foundation as a certified multi-cloud network engineer, I bring a wealth of expertise to IT security, complex networking, and cloud infrastructure design. My professional journey includes collaborating with global teams on high-stakes projects in diverse sectors like big data, finance, health, telecommunications, oil and energy.
 
 I specialize in designing microservices and scalable software architectures, always prioritizing security and performance. My approach is both strategic and hands-on, solving intricate technical challenges while enhancing efficiency and reliability. Whether in fast-paced or high-pressure situations, I thrive on creating solutions that are both innovative and effective.
 
