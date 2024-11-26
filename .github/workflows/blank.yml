@@ -25,6 +25,7 @@ jobs:
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: ${{ secrets.STEAM_UID }}
+          plugin_steam_sections: player, most-played
 
 
           # plugin_isocalendar: yes
