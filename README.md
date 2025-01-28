@@ -11,8 +11,6 @@ As the CEO of a leading DevOps consulting startup, I oversee critical business a
 🎯 I am also passionate about mentoring and sharing knowledge, committed to driving continuous improvement and innovation in every area of my work. My curiosity keeps me engaged with the latest advancements, ensuring I remain at the forefront of the ever-evolving technology landscape.
 
 
-![Metrics](/github-metrics.svg)
-
 <!--
 **rdecatri/rdecatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # [![Ramiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdecatri&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
