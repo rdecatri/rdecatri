@@ -6,7 +6,7 @@ With a strong foundation as a certified multi-cloud network engineer, I bring a 
 
 I specialize in designing microservices and scalable software architectures, always prioritizing security and performance. My approach is both strategic and hands-on, solving intricate technical challenges while enhancing efficiency and reliability. Whether in fast-paced or high-pressure situations, I thrive on creating solutions that are both innovative and effective.
 
-As the CEO of a leading DevOps consulting startup, I oversee critical business aspects, including forming and negotiating legal contracts, developing comprehensive project assessments, managing financial plans, and setting strategic goals. I am dedicated to building a bridge between technical innovation and strategic business impact, ensuring that every project maximizes value.
+As the CEO of a leading DevOps consulting startup, I had the opportunity to oversee critical business aspects, including forming and negotiating legal contracts, developing comprehensive project assessments, managing financial plans, and setting strategic goals. I am dedicated to building a bridge between technical innovation and strategic business impact, ensuring that every project maximizes value.
 
 🎯 I am also passionate about mentoring and sharing knowledge, committed to driving continuous improvement and innovation in every area of my work. My curiosity keeps me engaged with the latest advancements, ensuring I remain at the forefront of the ever-evolving technology landscape.
 
