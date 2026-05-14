@@ -171,15 +171,7 @@ mindmap
 | 🧪 Home Lab | Kubernetes, self-hosting, networking |
 | 🤖 AI Projects | Automation & experimentation |
 | 🎮 Gaming | Mostly competitive & strategy |
-| 🎵 Music / DJ | Electronic music production |
-
----
-
-# 📫 Connect
-
-- 💼 LinkedIn
-- 🧑‍💻 GitHub
-- ☁️ Always building something
+| 🎵 Music / DJ | Music production |
 
 ---
 
