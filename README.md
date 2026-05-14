@@ -2,14 +2,13 @@
 
 ### About me:
 
-Seasoned DevOps Engineer and multi-cloud infrastructure specialist with a strong foundation in networking, security, and distributed systems. Experienced designing and operating resilient cloud platforms across AWS, Azure, GCP, on-prem, and Kubernetes environments, with a focus on scalability, automation, observability, and performance under real-world production demands.
-Over the years, I’ve worked across industries including finance, healthcare, telecommunications, energy, cybersecurity, and big data, collaborating with global teams on high-impact and mission-critical systems. My background spans cloud architecture, platform engineering, DevSecOps, networking, SRE practices, infrastructure as code, and CI/CD at scale.
+Senior DevOps and Platform Engineer specializing in cloud-native infrastructure, distributed systems, and large-scale platform modernization across AWS, Azure, GCP, Kubernetes, and hybrid environments.
 
-Beyond engineering, I co-founded and led a DevOps consulting startup, where I was responsible not only for technical strategy and architecture, but also business operations, client relationships, contract negotiation, financial planning, and long-term company direction. That experience shaped how I approach technology today: engineering decisions should create measurable business value, not just technical elegance.
+Experienced leading infrastructure and DevOps initiatives for business-critical systems in cybersecurity, finance, healthcare, telecommunications, and energy sectors, with strong focus on scalability, resiliency, automation, observability, and operational excellence.
 
-I’m deeply hands-on and thrive in complex environments where reliability, security, and execution matter. Whether building cloud-native platforms, optimizing infrastructure costs, improving deployment pipelines, or solving operational bottlenecks, I focus on delivering systems that are scalable, secure, and maintainable.
-Certified across AWS, Azure, and Kubernetes, and continuously expanding my expertise, I stay closely aligned with the evolving cloud-native ecosystem and modern infrastructure practices. I also enjoy mentoring engineers, sharing knowledge, and helping teams raise their operational maturity and engineering standards.
+Architect and operator of multi-region, multi-cloud production platforms, driving Kubernetes adoption, DevSecOps practices, infrastructure as code, CI/CD at scale, and reliability engineering across globally distributed environments.
 
+Certified across AWS, Azure, and Kubernetes, with hands-on leadership experience mentoring engineers, coordinating cross-functional delivery, and improving operational maturity in complex enterprise ecosystems.
 
 <!--
 **rdecatri/rdecatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
