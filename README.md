@@ -25,7 +25,7 @@ Right now I’m heavily involved in:
 
 - Modernizing legacy infrastructure into cloud-native platforms
 - Building active-active multi-region Kubernetes environments
-- Scaling distributed systems across AWS & Azure
+- Scaling distributed systems across AWS, GCP & Azure
 - Improving observability and operational maturity
 - Performance optimization & FinOps
 - Designing resilient production infrastructure
@@ -62,20 +62,6 @@ I care deeply about:
 
 ---
 
-# 📊 What I Usually Work On
-
-```text
-Kubernetes Platform Engineering     ████████████████████
-Cloud Infrastructure                ██████████████████
-Automation & IaC                    █████████████████
-Observability / SRE                 ███████████████
-Networking                          ████████████
-Security & DevSecOps                ███████████
-Performance Optimization            ██████████
-```
-
----
-
 # 🏗️ Types of Projects I Enjoy
 
 | Project Type | Examples |
@@ -85,7 +71,7 @@ Performance Optimization            ██████████
 | 📦 Platform Engineering | Internal developer platforms, automation |
 | 📈 Reliability | Observability, HA, resiliency engineering |
 | 💸 FinOps | Cost optimization at scale |
-| 🌐 Networking | Hybrid cloud, routing, enterprise infra |
+| 🌐 Networking | Hybrid cloud, routing, FW/WAF, enterprise infra |
 | 🔐 Security | Secure delivery pipelines & hardened infra |
 
 ---
