@@ -81,13 +81,14 @@ I care deeply about:
 ```mermaid
 mindmap
   root((Industries))
+    AI services
     Cybersecurity
     Finance
     Healthcare
     Telecommunications
     Energy
     Industrial Systems
-    Cloud Platforms
+    Agentic Marketing
 ```
 
 ---
