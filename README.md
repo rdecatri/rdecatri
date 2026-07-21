@@ -53,8 +53,8 @@ I care deeply about:
 |---|---|
 | **Cloud** | AWS · Azure · GCP |
 | **Containers** | Kubernetes · Docker · Helm |
-| **IaC** | Terraform · CloudFormation |
-| **CI/CD** | GitHub Actions · GitLab CI · ArgoCD |
+| **IaC** | Terraform · Pulumi · CloudFormation |
+| **CI/CD** | GHA · GitLab CI · Jenkins · ArgoCD |
 | **Observability** | Prometheus · Grafana · ELK |
 | **Networking** | VPN · SDN · Load Balancers · WAF |
 | **Security** | IAM · Zero Trust · DevSecOps |
@@ -73,64 +73,6 @@ I care deeply about:
 | 💸 FinOps | Cost optimization at scale |
 | 🌐 Networking | Hybrid cloud, routing, FW/WAF, enterprise infra |
 | 🔐 Security | Secure delivery pipelines & hardened infra |
-
----
-
-# 🔥 Things I’ve Worked With
-
-<details>
-<summary><b>☁️ Cloud & Infrastructure</b></summary>
-
-- AWS
-- Azure
-- GCP
-- Kubernetes
-- Docker
-- Terraform
-- CloudFormation
-- Helm
-- ECS / EKS
-
-</details>
-
-<details>
-<summary><b>⚙️ CI/CD & GitOps</b></summary>
-
-- GitHub Actions
-- GitLab CI
-- ArgoCD
-- CircleCI
-- GitOps workflows
-- Deployment automation
-
-</details>
-
-<details>
-<summary><b>📈 Observability & Reliability</b></summary>
-
-- Prometheus
-- Grafana
-- ELK Stack
-- Logging pipelines
-- Metrics engineering
-- Incident troubleshooting
-- Performance tuning
-
-</details>
-
-<details>
-<summary><b>🌐 Networking & Security</b></summary>
-
-- VPNs
-- SDN
-- Load Balancers
-- WAF
-- DNS
-- Firewall management
-- Zero Trust concepts
-- Enterprise networking
-
-</details>
 
 ---
 
