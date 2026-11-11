@@ -14,8 +14,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
-      - uses: pedrocatalao/github-cool-readme@v1
+      - uses: actions/checkout@v5
+      # Temporary pinned fix for null entries returned for inaccessible historical repositories.
+      # Upstream PR: https://github.com/pedrocatalao/github-cool-readme/pull/3
+      - uses: rdecatri/github-cool-readme@8a3d3c8fca3d8f48c7d4c4cd9710ba352b3c58f8
         with:
           token: ${{ secrets.CARDS_TOKEN }}
           output: ${{ runner.temp }}/cards
