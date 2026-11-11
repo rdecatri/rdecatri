@@ -1,114 +1,59 @@
+<div align="center">
+
 # Hey, I'm Ramiro 👋
 
-```bash
-Platform Engineer | DevOps | Kubernetes | Distributed Systems | Multi-Cloud
-```
+### I build platforms that stay boring when everything else gets interesting.
 
-I build and operate cloud-native platforms focused on scalability, resiliency, automation, and production reliability.
+<samp>platform engineering · distributed systems · cloud reliability</samp>
 
-Most of my work lives at the intersection of:
+</div>
 
-- ☁️ Cloud Architecture
-- ⚙️ Platform Engineering
-- ☸️ Kubernetes
-- 🌍 Distributed Systems
-- 🔐 Security & DevSecOps
-- 📈 Observability & Reliability
-- 🌐 Networking
-- 🤖 Infrastructure Automation
+I design and operate cloud-native platforms with a focus on **resilience, automation, and operational simplicity**. My work sits where Kubernetes, multi-cloud infrastructure, security, observability, and real-world failure modes meet.
 
----
+> Infrastructure should scale with the business, not with operational pain.
 
-## 🚀 Current Focus
+### What I'm working on
 
-Right now I’m heavily involved in:
+- Building active-active, multi-region Kubernetes platforms
+- Modernizing legacy infrastructure without disrupting production
+- Improving observability, delivery safety, performance, and cloud cost
+- Exploring agentic automation and practical AI infrastructure
 
-- Modernizing legacy infrastructure into cloud-native platforms
-- Building active-active multi-region Kubernetes environments
-- Scaling distributed systems across AWS, GCP & Azure
-- Improving observability and operational maturity
-- Performance optimization & FinOps
-- Designing resilient production infrastructure
+### The toolbox
 
----
-
-# 🧠 Engineering Philosophy
-
-> “Infrastructure should scale with the business, not with operational pain.”
-
-I care deeply about:
-
-- operational simplicity
-- resilient architectures
-- automation-first approaches
-- production-grade observability
-- scalable delivery pipelines
-- systems that survive real-world failure conditions
-
----
-
-# ⚡ Core Technologies
-
-| Area | Stack |
+| | |
 |---|---|
-| **Cloud** | AWS · Azure · GCP |
-| **Containers** | Kubernetes · Docker · Helm |
-| **IaC** | Terraform · Pulumi · CloudFormation |
-| **CI/CD** | GHA · GitLab CI · Jenkins · ArgoCD |
-| **Observability** | Prometheus · Grafana · ELK |
-| **Networking** | VPN · SDN · Load Balancers · WAF |
-| **Security** | IAM · Zero Trust · DevSecOps |
-| **Systems** | Linux · Distributed Systems · SRE |
+| **Cloud & orchestration** | AWS · Azure · GCP · Kubernetes · Docker · Helm |
+| **Infrastructure as code** | Terraform · Pulumi · CloudFormation |
+| **Delivery** | GitHub Actions · GitLab CI · Jenkins · Argo CD |
+| **Reliability & security** | Prometheus · Grafana · ELK · IAM · Zero Trust |
+| **Foundations** | Linux · Networking · Distributed Systems · SRE |
 
----
+### By the numbers
 
-# 🏗️ Types of Projects I Enjoy
+<!-- cool-readme:start -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rdecatri/rdecatri/cards/summary-dark.svg">
+    <img src="https://raw.githubusercontent.com/rdecatri/rdecatri/cards/summary-light.svg" width="400" alt="Ramiro's GitHub activity summary">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rdecatri/rdecatri/cards/languages-dark.svg">
+    <img src="https://raw.githubusercontent.com/rdecatri/rdecatri/cards/languages-light.svg" width="400" alt="Ramiro's most used languages">
+  </picture>
+</p>
+<!-- cool-readme:end -->
 
-| Project Type | Examples |
-|---|---|
-| 🌍 Distributed Platforms | Multi-region Kubernetes, active-active systems |
-| 🔄 Modernization | Legacy → Cloud-native migrations |
-| 📦 Platform Engineering | Internal developer platforms, automation |
-| 📈 Reliability | Observability, HA, resiliency engineering |
-| 💸 FinOps | Cost optimization at scale |
-| 🌐 Networking | Hybrid cloud, routing, FW/WAF, enterprise infra |
-| 🔐 Security | Secure delivery pipelines & hardened infra |
+<details>
+<summary><strong>When I'm away from production</strong></summary>
+<br>
 
----
-
-# 🌎 Industries
-
-```mermaid
-mindmap
-  root((Industries))
-    AI services
-    Cybersecurity
-    Finance
-    Healthcare
-    Telecommunications
-    Energy
-    Industrial Systems
-    Agentic Marketing
-```
-
----
-
-# 🛠️ Outside Work
-
-| Hobby | Description |
-|---|---|
-| 🧪 Home Lab | Kubernetes, self-hosting, networking |
-| 🤖 AI Projects | Automation & experimentation |
-| 🎮 Gaming | Mostly competitive & strategy |
-| 🎵 Music / DJ | Music production |
-
----
+You'll usually find me experimenting in my home lab, building AI automations, gaming, or making music and DJing.
 
 ```yaml
-status:
-  learning: always
-  complexity_tolerance: high
-  production_incidents: inevitable
-  automation: preferred
-  coffee_dependency: critical
+learning: always
+automation: preferred
+coffee_dependency: critical
 ```
+
+</details>
