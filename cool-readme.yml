@@ -1,6 +1,6 @@
 user: rdecatri
 
-show: [summary, languages]
+show: [summary, languages, contributions, streaks]
 
 count:
   private: true
@@ -15,7 +15,7 @@ look:
 
 cards:
   summary:
-    title: Building reliable systems
+    title: null
     ring: github
   languages:
     title: Languages in the mix
@@ -23,3 +23,11 @@ cards:
     hide: []
     repos: {}
     other: true
+  contributions:
+    title: Notable contributions
+    count: 6
+    open: true
+    pin: []
+    hide: []
+  streaks:
+    title: Engineering momentum
