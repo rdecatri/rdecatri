@@ -1,0 +1,25 @@
+user: rdecatri
+
+show: [summary, languages]
+
+count:
+  private: true
+  orgs: true
+
+look:
+  style: classic
+  color: cyan
+  animations: true
+  background: none
+  border: false
+
+cards:
+  summary:
+    title: Building reliable systems
+    ring: github
+  languages:
+    title: Languages in the mix
+    count: 6
+    hide: []
+    repos: {}
+    other: true
